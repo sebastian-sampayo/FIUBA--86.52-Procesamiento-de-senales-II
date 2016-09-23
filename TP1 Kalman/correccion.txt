@@ -1,0 +1,16 @@
+Florencia Rao
+0:44 (hace 7 minutos)
+
+para mí 
+Hola Seba! Cómo andas??
+
+Muy buen tp!
+Tengo sin embargo algunas correcciones/ notas para tener en cuenta: 
+
+Q no es exactamente la que definiste en el tp, despreciaste los terminos de la derivada y solo te quedo el (T^3/6)^2 etc etc(tambien te olvidaste de elevar al cuadrado algunos terminos. En el ejercicio de clase habiamos usado esa aproximacion pero yo les habia dado un dato mas sobre el sistema que en este caso no poseen. De hecho se dice que las mediciones de los acelerometros es nula por lo que el ruido de proceso se puede suponer que es nulo. Igualmente, en el tp pusiste un error chico asi que esta bien, y a veces es mejor para evitar errores numericos en algunos casos.
+Una pavada de notacion: P0z deberia tener los ceros simples, no de dimension 2. Y P(0) deberia tener la diagonal elevada al cuadrado, eso en el codigo tampoco esta, sin embargo los resultados te dan bien
+Por otro lado, si me gustaria, que me comentes por aca (por mail), que sucede con la velocidad en el caso del sesgo, tal vez con un grafico de la velocidad en x en funcion de la velocidad en y, para el caso en el que tenes el sesgo.
+Despues de que me mandes lo del punto 3 podemos cerrar el tp. 
+
+Saludos!
+Flor
