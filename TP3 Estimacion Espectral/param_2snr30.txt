@@ -1,0 +1,12 @@
+
+------------------------------------------------
+Parámetros:
+N = 20, L = 3, K = 2, SNR = 30 dB
+
+w1 = 1.26, w2 = 1.41 
+hat{w1} = 1.31, hat{w2} = 1.43
+w1_{err} = 4.16 %, w2_{err} = 1.41 % 
+Autovalores de R: 0.00
+Autovalores de R: 0.03
+Autovalores de R: 5.11
+sigma_v-err = 44.91 %
